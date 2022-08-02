@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omniset
 - 👀 I’m interested in phyton 
-- 🌱 I’m currently learning phyton 
+- 🌱 I’m currently learning phyton, html+css, .cpp, and lastly .js
 - 💞️ I’m looking to collaborate on discord card game bot
 - 📫 How to reach me discord 노지혜#5534
 
