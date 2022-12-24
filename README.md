@@ -2,7 +2,7 @@
 - 👀 I’m interested in phyton 
 - 🌱 I’m currently learning phyton, html+css, .cpp, and lastly .js
 - 💞️ I’m looking to collaborate on discord card game bot
-- 📫 How to reach me discord 노지혜#5534
+- 📫 How to reach me discord MnD#3439
 
 <!---
 omniset/omniset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
