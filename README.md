@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omniset
 - 👀 I’m interested in phyton 
 - 🌱 I’m learning phyton, html+css, .cpp, php, and lot more
-- 💞️ I’m looking to collaborate on discord card game bot
+- 💞️ I’m also learning cybersecurity (mainly pentester field)
 - 📫 How to reach me discord MnD#3439
 <!---
 omniset/omniset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
